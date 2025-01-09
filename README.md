@@ -58,6 +58,6 @@ Prix initial : 10 €
 Je livre la pizza à l'adresse : 123 Rue des Pizzas  
 Prix final avec livraison : 15 €
 ```
-_#Licence_   
+#_Licence_   
 Ce projet est sous licence MIT. Vous êtes libre de l'utiliser, de le modifier et de le distribuer.
 Bon appétit avec Pizza Python !!🍕
